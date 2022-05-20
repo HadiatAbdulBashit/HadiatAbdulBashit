@@ -1,8 +1,8 @@
 ### Halo semua! 👋
 
-Perkenalkan nama saya **Hadiat Abdul Bashit**.  
+Saya **Hadiat Abdul Bashit**.  
 Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).  
-Saya bertanggung jawab pada kualitas materi Web dengan dibekali [sertifikasi dari Dicoding Academy](https://www.dicoding.com/certificates/JMZV25JJOZN9).  
+Saya dibekali [sertifikasi dari Dicoding Academy](https://www.dicoding.com/certificates/JMZV25JJOZN9).  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hadiat-a-b-77b03b225/) ku ya.  
 
 <img style="border-radius: 10px !important;" align="right" height="250" alt="" src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
@@ -27,7 +27,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HadiatAbdulBashit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiatAbdulBashit&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalfadiaalfikri&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
 </details>
 
 <details>	
